@@ -16,7 +16,7 @@
      var b = (a <= 1)*5; /* initialize b  */
   </textarea>
   <br>
-  <input id="PARSE" value=parse type=button>
-  <pre id=OUTPUT></pre>
+  <input id="_____" value=parse type=button>
+  <pre id=______></pre>
 </body>
 </html>
